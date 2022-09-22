@@ -1,3 +1,37 @@
 /* All CSS styles go here */
 
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    padding: 5%;
+  }
 
+
+.header {
+    margin-bottom: 10%;
+}
+
+.headerLeft {
+    float: left;
+    text-align: left;
+    
+    
+}
+
+.headerRight {
+    text-align: right;
+    /*float: right; */
+}
+
+.subHeaderLeft {
+    /* padding-top: 7%; */
+    float: left;
+    text-align: left;
+}
+
+.subHeaderRight {
+    text-align: right;
+}
+
+.material {
+    
+}

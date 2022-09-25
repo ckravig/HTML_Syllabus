@@ -32,6 +32,18 @@ body {
     text-align: right;
 }
 
-.material {
-    
+.wrap {
+    width: 100%;
+    overflow:auto;
+    /* height: 100vh; */
+}
+
+.fleft {
+    float: left;
+    width: 48%;
+}
+
+.fright  {
+    float: right;
+    width: 48%;
 }
